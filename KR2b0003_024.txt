@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.904108
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 24
+#+PROPERTY: FILE SB02n0034-024前漢紀-卷第二十四.
 <pb:KR2b0003_SBCK_024-1a>¶
 前漢孝成皇帝紀一卷第二十四　荀悅¶
 皇帝以宣帝時生號曰世適皇孫宣帝愛之自名曰¶
@@ -348,4 +352,3 @@
 雲誠知人可謂哲矣¶
 前漢孝成皇帝紀一卷第二十四¶
 <pb:KR2b0003_SBCK_024-15b>¶
-

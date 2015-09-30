@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:01.029323
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 27
+#+PROPERTY: FILE SB02n0034-027前漢紀-卷第二十七.
 <pb:KR2b0003_SBCK_027-1a>¶
 ¶
 <pb:KR2b0003_SBCK_027-1b>¶
@@ -295,4 +299,3 @@
 明矣&KR0002;得而用之福祚未巳張禹不吐&KR0033;言侫於垂¶
 <pb:KR2b0003_SBCK_027-13b>¶
 <pb:KR2b0003_SBCK_027-13b>¶
-

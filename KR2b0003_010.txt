@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.215736
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 10
+#+PROPERTY: FILE SB02n0034-010前漢紀-卷第十.
 <pb:KR2b0003_SBCK_010-1a>¶
 前漢孝武皇帝紀一卷第十　荀恱¶
 皇帝甲子即位年十六二月癸酉孝景帝葬陽陵三¶
@@ -313,4 +317,3 @@
 大夫¶
 前漢孝武皇帝紀一卷第十¶
 <pb:KR2b0003_SBCK_010-14a>¶
-

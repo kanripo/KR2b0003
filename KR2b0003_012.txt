@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.348875
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 12
+#+PROPERTY: FILE SB02n0034-012前漢紀-卷第十二.
 <pb:KR2b0003_SBCK_012-1a>¶
 前漢孝武皇帝紀三卷第十二　荀恱¶
 元光六年冬&KR0004;算商車春穿漕渠通渭匈奴入上谷¶
@@ -324,4 +328,3 @@
 失臣從下失人匈奴入上谷殺數百人¶
 前漢孝武皇帝紀三卷第十二¶
 <pb:KR2b0003_SBCK_012-14b>¶
-

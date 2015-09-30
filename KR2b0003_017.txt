@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.593634
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 17
+#+PROPERTY: FILE SB02n0034-017前漢紀-卷第十七.
 <pb:KR2b0003_SBCK_017-1a>¶
 前漢孝宣皇帝紀一卷第十七　荀恱¶
 宣帝初生數月遭巫蠱事幽於郡邸獄廷尉監魯國¶
@@ -305,4 +309,3 @@
 <pb:KR2b0003_SBCK_017-13b>¶
 首矣省汶山郡并蜀郡¶
 前漢孝宣皇帝紀一卷第十七¶
-

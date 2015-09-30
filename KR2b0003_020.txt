@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.723594
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 20
+#+PROPERTY: FILE SB02n0034-020前漢紀-卷第二十.
 <pb:KR2b0003_SBCK_020-1a>¶
 前漢孝宣皇帝紀四卷第二十　荀恱¶
 五鳳元年春正月上幸甘泉宫郊大畤皇太子冠賜¶
@@ -343,4 +347,3 @@
 前漢孝宣皇帝紀四卷第二十¶
 <pb:KR2b0003_SBCK_020-15b>¶
 <pb:KR2b0003_SBCK_020-15b>¶
-

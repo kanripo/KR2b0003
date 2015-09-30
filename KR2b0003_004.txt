@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:06:59.959800
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 4
+#+PROPERTY: FILE SB02n0034-004前漢紀-卷第四.
 <pb:KR2b0003_SBCK_004-1a>¶
 前漢高祖皇帝紀卷第四　荀恱¶
 八年冬上擊韓王信餘冦于東垣建武侯靳歙有功¶
@@ -259,4 +263,3 @@
 周而復始周秦之間可謂文弊秦不改文酷刑漢承¶
 秦弊得天下矣¶
 前漢高祖皇帝紀卷第四¶
-

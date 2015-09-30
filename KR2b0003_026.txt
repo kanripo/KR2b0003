@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.987033
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 26
+#+PROPERTY: FILE SB02n0034-026前漢紀-卷第二十六.
 <pb:KR2b0003_SBCK_026-1a>¶
 前漢孝成皇帝紀三卷第二十六　荀悅¶
 四年秋&KR0040;魚於新都長五尺勃海清河河水溢灌縣¶
@@ -287,4 +291,3 @@
 馬免¶
 前漢孝成皇帝紀三卷第二十六¶
 <pb:KR2b0003_SBCK_026-13a>¶
-

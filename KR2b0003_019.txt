@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.678145
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 19
+#+PROPERTY: FILE SB02n0034-019前漢紀-卷第十九.
 <pb:KR2b0003_SBCK_019-1a>¶
 前漢孝宣皇帝紀三卷第十九　荀悅¶
 神雀元年春正月行幸甘泉郊秦畤三月行幸河東¶
@@ -331,4 +335,3 @@
 經術故當修先王之道何可委曲從俗苟求富貴乎¶
 卒以太傅官終十有二月鳳凰集上林¶
 前漢孝宣皇帝三卷第十九¶
-

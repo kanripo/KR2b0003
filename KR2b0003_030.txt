@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:01.154550
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 30
+#+PROPERTY: FILE SB02n0034-030前漢紀-卷第三十.
 <pb:KR2b0003_SBCK_030-1a>¶
 前漢孝平皇帝紀卷第三十　荀恱¶
 皇帝壬寅即位九歳大司徒孔光爲太傅左將軍甄¶
@@ -641,4 +645,3 @@
 ¶
 前漢孝平皇帝紀卷第三十¶
 <pb:KR2b0003_SBCK_030-28a>¶
-

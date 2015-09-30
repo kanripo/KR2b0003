@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.631707
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 18
+#+PROPERTY: FILE SB02n0034-018前漢紀-卷第十八.
 <pb:KR2b0003_SBCK_018-1a>¶
 前漢孝宣皇帝紀二卷第十八　荀悅¶
 四年春正月封蕭何孫建爲鄼侯詔民有太父母父¶
@@ -272,4 +276,3 @@
 獻其皮骨爪牙神雀仍集¶
 前漢孝宣皇帝紀二卷第十八¶
 <pb:KR2b0003_SBCK_018-12b>¶
-

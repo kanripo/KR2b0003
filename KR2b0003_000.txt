@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:06:59.787150
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB02n0034-000前漢紀-序.
 <pb:KR2b0003_SBCK_000-1a>¶
 刻兩漢紀序¶
 夫史以述王道辨人紀彰厥&KR0100;迹以昭法戒蓋聖人¶
@@ -97,4 +101,3 @@
 惡而勸善奬成而懼敗兹亦有國之常訓典籍之淵¶
 林雖云撰之者陋淺而本末存焉爾故君子可觀之¶
 矣¶
-

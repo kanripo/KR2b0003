@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.813170
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 22
+#+PROPERTY: FILE SB02n0034-022前漢紀-卷第二十二.
 <pb:KR2b0003_SBCK_022-1a>¶
 前漢孝元皇帝紀中卷第二十二　荀恱¶
 永光元年春正月行幸甘泉郊泰畤免雲陽徒賜民¶
@@ -299,4 +303,3 @@
 國恭王上欲殊於後宫故曰昭儀位次皇后昭儀之¶
 號自此始也¶
 前漢孝元皇帝紀中卷第二十二¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.414190
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 13
+#+PROPERTY: FILE SB02n0034-013前漢紀-卷第十三.
 <pb:KR2b0003_SBCK_013-1a>¶
 前漢孝武皇帝紀四卷第十三　荀悅¶
 二年冬十月行幸雍祠五畤春三月戊寅丞相公孫¶
@@ -332,4 +336,3 @@
 月辛巳丞相趙周下獄死丙申御史大夫石慶爲丞¶
 相立常山憲王舜少子裔爲泗水王¶
 前漢孝武皇帝紀四卷第十三¶
-

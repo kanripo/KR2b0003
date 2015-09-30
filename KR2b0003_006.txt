@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.043424
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 6
+#+PROPERTY: FILE SB02n0034-006前漢紀-卷第六.
 <pb:KR2b0003_SBCK_006-1a>¶
 前漢髙后紀卷第六　荀悅¶
 初髙后命孝惠張皇后取後宫美人子養之而殺其¶
@@ -230,4 +234,3 @@
 <pb:KR2b0003_SBCK_006-10b>¶
 ¶
 前漢髙后紀卷第六¶
-

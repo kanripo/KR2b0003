@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.547510
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 16
+#+PROPERTY: FILE SB02n0034-016前漢紀-卷第十六.
 <pb:KR2b0003_SBCK_016-1a>¶
 前漢孝昭皇帝紀卷第十六　荀悅¶
 皇帝戊辰即位年八歳謁髙廟三月甲申孝武帝&KR0089;¶
@@ -344,4 +348,3 @@
 苦議塩鐡罷攉沽尊號爲昭不亦宜乎¶
 前漢孝昭皇帝紀卷第十六¶
 <pb:KR2b0003_SBCK_016-15b>¶
-

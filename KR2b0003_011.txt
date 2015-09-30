@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 前漢紀
-#+DATE: 2015-09-23 09:42:36
+#+DATE: 2015-09-10 23:07:00.278156
+#+PROPERTY: ID KR2b0003
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 11
+#+PROPERTY: FILE SB02n0034-011前漢紀-卷第十一.
 <pb:KR2b0003_SBCK_011-1a>¶
 前漢孝武皇帝紀二卷第十一　荀恱¶
 元光元年冬初令郡國貢孝廉各一人董仲舒始用¶
@@ -415,4 +419,3 @@
 朞年而變臣弘常切遲之上嘉異其言¶
 前漢孝武皇帝紀二卷第十一¶
 <pb:KR2b0003_SBCK_011-18b>¶
-
